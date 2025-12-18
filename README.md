@@ -1,6 +1,6 @@
 <div align="center">
-  <h1>Olá! Eu sou o Arthur 👋</h1>
-  <h3>Estudante de Engenharia & Entusiasta de C/C++</h3>
+  <h1>Olá! Eu sou o Arthur Piloto 👋</h1>
+  <h3>Estudante de Engenharia da computação & programador em C e Python</h3>
   
   <br/>
 
