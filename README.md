@@ -17,11 +17,10 @@
 ### 📊 Minhas Estatísticas no GitHub
 
 <div align="center">
-  <img height="180px" src="https://github-readme-stats.vercel.app/api?username=ArthurPilotob&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="Github Stats"/>
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=ArthurPilotob&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="Github Stats"/>
   
-  <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArthurPilotob&layout=compact&theme=dracula" alt="Top Langs"/>
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArthurPilotob&layout=compact&theme=dracula" alt="Top Langs"/>
 </div>
-
 ---
 
 ### 📫 Contato
