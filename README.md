@@ -14,12 +14,12 @@
 
 ---
 
+### 📊 Minhas Estatísticas no GitHub
+
 <div align="center">
-  <h3>📊 Minhas Estatísticas</h3>
+  <img height="180" src="https://readme-stats-fast.vercel.app/api?username=ArthurPilotob&show_icons=true&theme=dracula&include_all_commits=true" alt="Github Stats"/>
   
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=ArthurPilotob&show_icons=true&theme=dracula" alt="Github Stats"/>
-  
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArthurPilotob&layout=compact&theme=dracula" alt="Top Langs"/>
+  <img height="180" src="https://readme-stats-fast.vercel.app/api/top-langs/?username=ArthurPilotob&layout=compact&theme=dracula" alt="Top Langs"/>
 </div>
 
 ---
