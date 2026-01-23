@@ -1,33 +1,38 @@
-<div align="center">
-  <h1>Olá! Eu sou o Arthur Piloto 👋</h1>
-  <h3>Estudante de Engenharia da Computação & Programador em C e Python</h3>
-  
-  <br/>
+# 💻 Arthur Piloto
 
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/GIT-E34F26?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  
-  <br/><br/>
+Olá, me chamo Arthur Piloto, tenho 18 anos e curso Engenharia de Computação no Senai Cimatec de Salvador BA, seja bem vindo ao meu GitHub!
+
+### 📝 Linguagens
+
+<div style="display: inline_block">
+  <img align="center" alt="Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+  <img align="center" alt="C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />
+  <img align="center" alt="HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
+  <img align="center" alt="Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
 </div>
 
----
+<br>
 
 ### 📊 Minhas Estatísticas no GitHub
 
 <div align="center">
-  <img height="180" src="https://readme-stats-fast.vercel.app/api?username=ArthurPilotob&show_icons=true&theme=dracula&include_all_commits=true" alt="Github Stats"/>
-  
-  <img height="180" src="https://readme-stats-fast.vercel.app/api/top-langs/?username=ArthurPilotob&layout=compact&theme=dracula" alt="Top Langs"/>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img align="left" height="180" src="https://readme-stats-fast.vercel.app/api?username=ArthurPilotob&show_icons=true&theme=dracula&include_all_commits=true" alt="Github Stats" />
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img align="left" height="180" src="https://readme-stats-fast.vercel.app/api/top-langs/?username=ArthurPilotob&layout=compact&theme=dracula" alt="Top Langs" />
+  </a>
 </div>
 
----
+<br clear="left">
+<br>
 
 ### 📫 Contato
+
 <div align="center">
   <a href="https://www.linkedin.com/in/arthur-piloto-a7014a357/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a> 
+  </a>
   <a href="https://mail.google.com/mail/?view=cm&fs=1&to=arthur.opiloto@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
